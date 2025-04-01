@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 💜 Olá, meu nome é {seu nome}!
+## 💜 Olá, meu nome é {João Victor}!
 
-Faça uma breve apresentação sobre você e a sua stack.
+Sou aluno formado no ensimo médio no IFSP - campus Votuporanga
+Cusando Bacharelado Sitemas da informação - IFSP
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+
 
 ---
 
@@ -37,6 +37,3 @@ Faça uma breve apresentação sobre você e a sua stack.
 
 ---
 
-## ⭐ GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
