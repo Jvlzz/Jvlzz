@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ## 💜 Olá, meu nome é {João Victor}!
 
-Sou aluno formado no ensimo médio no IFSP - campus Votuporanga
-Cusando Bacharelado Sitemas da informação - IFSP
+-Sou aluno formado no ensimo médio no IFSP - campus Votuporanga
+-Cusando Bacharelado Sitemas da informação - IFSP
 
 
 
